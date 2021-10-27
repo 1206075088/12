@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T17:13:17.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="6OiP5cd508tBrmgUlXXl" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T18:11:04.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ChVpc-tgu7k1QMt8NVbR" version="15.5.9" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
     <mxGraphModel dx="784" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -51,6 +51,11 @@
         <mxCell id="wrmkv-2-swTy5kxOgyaR-8" value="&lt;p style=&quot;box-sizing: border-box ; margin-top: 1rem ; margin-bottom: 1rem ; position: relative ; color: rgb(51 , 51 , 51)&quot;&gt;&lt;span class=&quot;md-plain md-expand&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;微乳液和凝胶微乳液的表征&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wrmkv-2-swTy5kxOgyaR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=9;" edge="1" parent="1" source="wrmkv-2-swTy5kxOgyaR-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wrmkv-2-swTy5kxOgyaR-10" value="微乳液的渗入能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="440" width="120" height="40" as="geometry" />
         </mxCell>
@@ -62,6 +67,9 @@
         </mxCell>
         <mxCell id="wrmkv-2-swTy5kxOgyaR-23" value="使用计算机模型模拟皮肤进行测试" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="680" y="375" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wrmkv-2-swTy5kxOgyaR-30" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;选择一系列合适的浓度，&lt;br&gt;以获得所需的粘度&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="245" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
